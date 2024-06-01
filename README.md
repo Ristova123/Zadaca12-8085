@@ -10,7 +10,7 @@
 **Resenie:**
 
 
-![Screenshot (1)](https://github.com/slavko444/8085-Zadaca-12/blob/main/Diagram%2012.png)
+![Screenshot (1)](https://github.com/Ristova123/Zadaca12-8085/blob/main/Diagram%2012.png)
 
 ```
 fosc =5MHz t=0,2µsec ts=0.4µsec
@@ -81,9 +81,9 @@ LOOP: MOV A,E
 
 ```
 
- ![Screenshot (2)](https://github.com/slavko444/8085-Zadaca-12/blob/main/Code%2012.1.png)
- ![Screenshot (3)](https://github.com/slavko444/8085-Zadaca-12/blob/main/Code%20glavna%2012.png)
- ![Screenshot (4)](https://github.com/slavko444/8085-Zadaca-12/blob/main/Code%2012.png)
+ ![Screenshot (2)](https://github.com/Ristova123/Zadaca12-8085/blob/main/Code%2012.1.png)
+ ![Screenshot (3)](https://github.com/Ristova123/Zadaca12-8085/blob/main/Code%20glavna%2012.png)
+ ![Screenshot (4)](https://github.com/Ristova123/Zadaca12-8085/blob/main/Code%2012.png)
  
 **Develop by:**
 
